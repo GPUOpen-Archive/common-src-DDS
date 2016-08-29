@@ -17,7 +17,7 @@
     typedef char TCHAR;
 #endif
 
-#include "GDT_MemUtils.h"
+#include "Misc/GDT_MemUtils.h"
 #include "DDS_Internal.h"
 #include "AMDT-DDS.h"
 
